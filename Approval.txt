@@ -1,2 +1,2 @@
 LIGHT-realme-armv8l-LIGHT
-
+LIGHT-OPPO-aarch64-Laxit
