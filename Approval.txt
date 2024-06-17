@@ -1,2 +1,3 @@
 LIGHTUnknown-armv8l
+LIGHTUnknown-aarch64
 
