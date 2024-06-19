@@ -1,4 +1,4 @@
 LIGHT-realme-armv8l-LIGHT
-LIGHT-OPPO-aarch64-Laxit
 LIGHT-benco-aarch64-Aryan
 LIGHT-Redmi-aarch64
+LIGHT-realme-aarch64-suneel
