@@ -2,3 +2,4 @@ LIGHT-realme-armv8l-BISHAL
 LIGHT-benco-aarch64-Aryan
 LIGHT-Redmi-aarch64
 LIGHT-realme-aarch64-suneel
+LIGHT-Infinix-aarch64-sk
