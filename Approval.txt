@@ -1,2 +1,3 @@
 LIGHT-realme-armv8l-BIKI
 LIGHT-Redmi-aarch64-kishor
+LIGHT-POCO-aarch64-nabin
