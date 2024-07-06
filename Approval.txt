@@ -2,3 +2,4 @@ LIGHT-realme-armv8l-BIKI
 LIGHT-Redmi-aarch64-kishor
 LIGHT-POCO-aarch64-nabin
 LIGHT-OPPO-aarch64-ok
+LIGHT-realme-aarch64-hridoy ahmed
